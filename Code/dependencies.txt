@@ -1,0 +1,8 @@
+packages:
+python3
+music21
+PIL
+PySimpleGUI
+
+apps:
+MuseScore
